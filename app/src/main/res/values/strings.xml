@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ApnaApi</string>
+    <string name="contact_no">Contact No</string>
+    <string name="add_product">Add Product</string>
+    <string name="reset">Reset</string>
+    <string name="search">Search</string>
+    <string name="enter_id">Enter Id</string>
+    <string name="price">Price</string>
+</resources>
